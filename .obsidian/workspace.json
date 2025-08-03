@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Table.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Progress Table"
+              "title": "README"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Table.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Progress Table"
+              "title": "README"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transfemme info/Advanced Boob Fitting Knowledge.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced Boob Fitting Knowledge"
+              "title": "README"
             }
           }
         ],
@@ -253,9 +253,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49fe98b97accfa99",
+  "active": "20d2a8aa26c75c6f",
   "lastOpenFiles": [
-    "Progress Table.md",
+    "transfemme info/Advanced Boob Fitting Knowledge.md",
+    "README.md",
     "general-trans/Body-Con Info.md",
     "general-trans/Prestige Classes.md",
     "transfemme info/First Bra.md",
@@ -286,7 +287,6 @@
     "exported to pdf/Transfemme Info DRAFT Body Hair and what you can do to it.pdf",
     "exported to pdf/Trans Info DRAFT How to tell if you might be trans.pdf",
     "exported to pdf",
-    "transfemme info/Advanced Boob Fitting Knowledge.md",
     "transfemme info/dick obfuscation techniques.md",
     "Welcome.md"
   ]
