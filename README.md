@@ -1,6 +1,6 @@
 ![[project-header.png]]
-![alt text][header]
-[header]: https://github.com/RobbingSpree/Metamorph-Us/blob/main/Media/project-header.png "metamorph-Us"
+
+![alt text](https://github.com/RobbingSpree/Metamorph-Us/blob/main/Media/project-header.png "metamorph-Us")
 ## Progress Report
 
 | Subject                                    | Field      | Folder     | Complete | Notes                                                           |
