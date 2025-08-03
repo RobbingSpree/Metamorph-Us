@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "6b16f507f4901628",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fab7c7281183629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aecbe1edc5b4bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "transfemme info/dick obfuscation techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dick obfuscation techniques"
+            }
+          },
+          {
+            "id": "2210d6cdb23024f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Progress Table"
+            }
+          },
+          {
+            "id": "c0e3cfd6107bae87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Progress Table"
+            }
+          },
+          {
+            "id": "16fb692f6a9416d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "transfemme info/Boobs At Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boobs At Home"
+            }
+          },
+          {
+            "id": "b1acfce50e883d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Progress Table"
+            }
+          },
+          {
+            "id": "566f095193c0faa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final Export Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final Export Checklist"
+            }
+          },
+          {
+            "id": "49fe98b97accfa99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "transfemme info/Advanced Boob Fitting Knowledge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advanced Boob Fitting Knowledge"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9040416533221b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "37de1897e74b24fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d2a8aa26c75c6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22f0fa39b77fe5fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6bfea030be33c854",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34958478dabc28bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c62f8936ff7a47e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86269c224891efa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How to tell if you might be trans.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for How to tell if you might be trans"
+            }
+          },
+          {
+            "id": "95a0495f602d038b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How to tell if you might be trans.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from How to tell if you might be trans"
+            }
+          },
+          {
+            "id": "15a4bb363f4fbbbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f27500ec5fe07791",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How to tell if you might be trans.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How to tell if you might be trans"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "49fe98b97accfa99",
+  "lastOpenFiles": [
+    "Progress Table.md",
+    "general-trans/Body-Con Info.md",
+    "general-trans/Prestige Classes.md",
+    "transfemme info/First Bra.md",
+    "Final Export Checklist.md",
+    "Media/first-bra-commisions/soft-TAPE.png",
+    "general-trans/Clothes Names.md",
+    "general-trans/Look Good on Purpose.md",
+    "transfemme info/Body Hair and what you can do about it.md",
+    "general-trans/Buddy Shopping.md",
+    "transfemme info/Boobs At Home.md",
+    "general-trans/How to tell if you might be trans.md",
+    "general-trans",
+    "title pages/names-of-clothes.png",
+    "title pages/Metamorph-us title page_20231207092740.png",
+    "title pages/body-hair.png",
+    "title pages/Untitled25_20231115112307.png",
+    "Media/first-bra-commisions/how_to_wear_a_bra.png",
+    "Media/first-bra-commisions/certified.png",
+    "Media/first-bra-commisions/bra_hooks.png",
+    "Media/first-bra-commisions/invisible_bra.png",
+    "Media/first-bra-commisions",
+    "Media/New folder",
+    "title pages/first-bra.png",
+    "title pages",
+    "exported to pdf/Transfemme Info How to measure for your first bra at home.pdf",
+    "exported to pdf/Transfemme Info DRAFT Clothes You May Not Know Had a Name.pdf",
+    "exported to pdf/Transfemme Info DRAFT Body Hair and what you can do to it_old.pdf",
+    "exported to pdf/Transfemme Info DRAFT Body Hair and what you can do to it.pdf",
+    "exported to pdf/Trans Info DRAFT How to tell if you might be trans.pdf",
+    "exported to pdf",
+    "transfemme info/Advanced Boob Fitting Knowledge.md",
+    "transfemme info/dick obfuscation techniques.md",
+    "Welcome.md"
+  ]
+}
