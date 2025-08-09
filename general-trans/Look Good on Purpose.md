@@ -46,3 +46,9 @@ Accent piece:
 
 Layers:
 
+Bags and Shoes:
+
+Hair & Makeup:
+
+Jewelry:
+
