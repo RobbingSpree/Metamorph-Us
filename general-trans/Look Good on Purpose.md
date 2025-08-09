@@ -39,3 +39,10 @@ There are more advanced techniques for finding suitable colours that go together
   
 
 Silhouette:
+
+Fit: 
+
+Accent piece: 
+
+Layers:
+
