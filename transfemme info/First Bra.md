@@ -19,7 +19,6 @@ To turn our waist measurement into the waistband size it is all based on the sam
 
 For USA this would be a size 16  
 For Europe this would be a size 49
-
 For Aus and NZ it would be a size 20
 
 For every inch more or less it’s one size up or down respectively. Most shops only stock clothes in increments of 2 sizes, so you may need to buy a size above and below to see what seems to fit you best.
